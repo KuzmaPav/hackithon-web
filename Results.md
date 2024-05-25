@@ -1,8 +1,7 @@
 # Výsledky
 
-## poisson_intensity_0.1
-Nastavení
 ```python
+# Nastavení
     'Median': cv2.medianBlur(image, 5),
     'Gaussian': cv2.GaussianBlur(image, (5, 5), 0),
     'Bilateral': cv2.bilateralFilter(image, 9, 75, 75),
@@ -10,5 +9,18 @@ Nastavení
     'Wavelet': denoise_wavelet(image, method='BayesShrink', mode='soft'),
     'Total Variation': denoise_tv_chambolle(image, weight=0.1)
 ```
+
+## poisson_intensity_0.1
 ### Vzorek 639
 ![alt text](./obrazky/639.png "639")
+### Vzorek 655
+![alt text](./obrazky/639.png "655")
+
+## poisson_intensity_0.2
+### Vzorek 753
+![alt text](./obrazky/639.png "753")
+### Vzorek 732
+![alt text](./obrazky/639.png "732")
+
+
+C:\Users\andre\Projekty\git\hackithon-web\obrazky
