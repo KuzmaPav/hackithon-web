@@ -14,13 +14,13 @@
 ### Vzorek 639
 ![alt text](./obrazky/639.png "639")
 ### Vzorek 655
-![alt text](./obrazky/639.png "655")
+![alt text](./obrazky/655.png "655")
 
 ## poisson_intensity_0.2
 ### Vzorek 753
-![alt text](./obrazky/639.png "753")
+![alt text](./obrazky/753.png "753")
 ### Vzorek 732
-![alt text](./obrazky/639.png "732")
+![alt text](./obrazky/732.png "732")
 
 
 C:\Users\andre\Projekty\git\hackithon-web\obrazky
