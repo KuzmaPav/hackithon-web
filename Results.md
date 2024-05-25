@@ -57,3 +57,27 @@
 ![alt text](./obrazky/496.png "496")
 ### Vzorek 465
 ![alt text](./obrazky/465.png "465")
+
+## salt_pepper_intensity_0.05
+### Vzorek 594
+![alt text](./obrazky/594.png "594")
+### Vzorek 511
+![alt text](./obrazky/511.png "511")
+
+## speckle_intensity_0.1
+### Vzorek 106
+![alt text](./obrazky/106.png "106")
+### Vzorek 155
+![alt text](./obrazky/106.png "155")
+
+## speckle_intensity_0.05
+### Vzorek 81
+![alt text](./obrazky/81.png "81")
+### Vzorek 5
+![alt text](./obrazky/5.png "5")
+
+## speckle_intensity_0.15
+### Vzorek 267
+![alt text](./obrazky/81.png "267")
+### Vzorek 201
+![alt text](./obrazky/81.png "201")
