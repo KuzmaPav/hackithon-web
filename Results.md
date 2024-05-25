@@ -48,10 +48,12 @@
 
 ## salt_pepper_intensity_0.01
 ### Vzorek 331
-![alt text](./obrazky/972.png "331")
+![alt text](./obrazky/331.png "331")
 ### Vzorek 358
 ![alt text](./obrazky/358.png "358")
 
 ## salt_pepper_intensity_0.03
 ### Vzorek 496
 ![alt text](./obrazky/496.png "496")
+### Vzorek 465
+![alt text](./obrazky/465.png "465")
