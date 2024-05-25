@@ -43,4 +43,4 @@ def load_data(noisy_folder_path, clean_folder_path):
     noisy_data = noisy_data[:index]
     clean_data = clean_data[:index]
 
-    return np.array([noisy_data, clean_data])
+    return noisy_data, clean_data
