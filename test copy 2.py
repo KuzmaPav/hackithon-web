@@ -155,8 +155,8 @@ model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=0.001), loss="mea
 # Summary
 model.summary()
 
-noise_data_path = r"vzorky\poisson_intensity_0.1"
-clean_data_path = r"vzorky\original"
+noise_data_path = r"vzorky/poisson_intensity_0.1"
+clean_data_path = r"vzorky/original"
 
 x_data, y_data  = load_ren_data.load_data(noise_data_path, clean_data_path)
 
