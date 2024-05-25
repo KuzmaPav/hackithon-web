@@ -22,5 +22,18 @@
 ### Vzorek 732
 ![alt text](./obrazky/732.png "732")
 
+## poisson_intensity_0.3
+### Vzorek 809
+![alt text](./obrazky/809.png "809")
+### Vzorek 843
+![alt text](./obrazky/843.png "843")
 
-C:\Users\andre\Projekty\git\hackithon-web\obrazky
+## salt_and_pepper_speckle_intensity_0.01_0.1
+### Vzorek 1125
+![alt text](./obrazky/1125.png "1125")
+### Vzorek 1169
+![alt text](./obrazky/1169.png "1169")
+
+## salt_and_pepper_speckle_intensity_0.03_0.3
+### Vzorek 1057
+![alt text](./obrazky/1057.png "1057")
