@@ -49,7 +49,7 @@ def evaluate_filters(image, original_image):
 base_dir = './vzorky'
 
 # Specify the target subfolder
-target_subfolder = 'salt_and_pepper_speckle_intensity_0.03_0.3'
+target_subfolder = 'salt_pepper_intensity_0.03'
 
 # random image
 random_image_path = get_random_image(base_dir, target_subfolder)

@@ -37,3 +37,21 @@
 ## salt_and_pepper_speckle_intensity_0.03_0.3
 ### Vzorek 1057
 ![alt text](./obrazky/1057.png "1057")
+### Vzorek 1007
+![alt text](./obrazky/1007.png "1007")
+
+## salt_and_pepper_speckle_intensity_0.05_0.2
+### Vzorek 972
+![alt text](./obrazky/972.png "972")
+### Vzorek 949
+![alt text](./obrazky/949.png "949")
+
+## salt_pepper_intensity_0.01
+### Vzorek 331
+![alt text](./obrazky/972.png "331")
+### Vzorek 358
+![alt text](./obrazky/358.png "358")
+
+## salt_pepper_intensity_0.03
+### Vzorek 496
+![alt text](./obrazky/496.png "496")
