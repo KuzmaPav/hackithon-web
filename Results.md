@@ -1,4 +1,4 @@
-# Výsledky
+# Prostorové filtrování
 
 ```python
 # Nastavení
